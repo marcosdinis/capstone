@@ -12,7 +12,7 @@ The website includes the following sections:
 
 - **Summary/Objective Statement** - Professional overview and career goals
 - **Education** - List of degrees, institutions, and graduation dates
-- **Work Experience** - Job titles, employers, dates, and key responsibilities
+- **Projects** - Project titles, descriptions, technologies used, and key contributions
 - **Skills** - Technical and professional competencies
 - **Awards & Certifications** - Relevant achievements and qualifications
 
